@@ -15,9 +15,9 @@ export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
       { title: "Aaradhya & Arjun — Wedding Invitation" },
-      { name: "description", content: "Join us as we celebrate our wedding on December 15, 2026 at The Leela Palace, Udaipur." },
-      { property: "og:title", content: "Aaradhya & Arjun — Wedding Invitation" },
-      { property: "og:description", content: "December 15, 2026 · The Leela Palace, Udaipur" },
+      { name: "description", content: "Join us as we celebrate our wedding on July 15, 2026 at Sangli maharasta" },
+      { property: "og:title", content: "Prem & Pragati — Wedding Invitation" },
+      { property: "og:description", content: "July 7, 2026 · Mahastra" },
     ],
   }),
   component: Index,
